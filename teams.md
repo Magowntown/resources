@@ -56,6 +56,19 @@ A smartphone app to help prevent the event of a car crash.
  - [Fernando Ellis](https://github.com/fortnight)
  - [Shiraz Qayyum](https://github.com/shirazqayyum)
  - [Casey DeLorme](https://github.com/cdelormme)
+ 
+Lanternit
+=============
+Lanternit will be a location based social network with a focus on an interactive map UI. 
+
+The project is still in early development, and will present a prototype (Alpha stage) of the app by the end of the contest. We are looking for coders knowledgeable in API, PHP, Java, JQuery, etc who are interested.
+
+Contact me at amagown@gmail.com if you are interested..
+ - [Source Code](https://github.com/amagown/Lanternit)
+ - [Demo](https://www.youtube.com/watch?v=0ULIXF4oyyw)
+
+**Members**
+ - [Andrew Magown](https://github.com/amagown)
 
 NextPlex Mobile
 =============
@@ -109,13 +122,3 @@ sharing of imagery.
 **Members**
  - [@CarolBrass](http://github.com/CarolBrass)
  - [@scniro](http://github.com/scniro)
-
-pmcht! (Lip Smack)
-=============
-An educational game about nutrition. Devoloped with HTML5 and JavaScript.
- - [Source Code]https://github.com/Jenneh/pmcht
- - [Demo](https://docs.google.com/presentation/d/1IqwmX1SWWmqPzBhu35yt6Gdx7QnOfCXm4wYUB8Q8u94/edit?usp=sharing)
-
-**Members**
-- [@Jenneh](https://github.com/Jenneh)
-- [@kyle](https://github.com/CallidusAsinus)
